@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1518122123 source:c:\users\rs3\desktop\ex c++\game x&o\main.cpp
+	<iostream>
+	<cstdlib>
+
